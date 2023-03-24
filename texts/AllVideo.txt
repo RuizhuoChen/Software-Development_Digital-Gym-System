@@ -1,0 +1,9 @@
+Functional Training,30,HIIT,videos/FunctionalTraining.MP4,images/button_back1.jpg,0
+Yoga Training,35,Yoga,videos/YogaTraining.MP4,images/button_back2.jpg,0
+Training Muscles,45,Strength,videos/TrainingMuscles.MP4,images/button_back3.jpg,0
+Functional Training,38,HIIT,videos/FunctionalTraining2.MP4,images/button_back8.jpg,1
+Yoga Training,33,Yoga,videos/YogaTraining2.MP4,images/button_back4.jpg,1
+Training Muscles,50,Strength,videos/TrainingMuscles2.MP4,images/button_back7.jpg,1
+Functional Training,67,HIIT,videos/FunctionalTraining3.MP4,images/button_back9.jpg,2
+Yoga Training,45,Yoga,videos/YogaTraining3.MP4,images/button_back5.jpg,2
+Training Muscles,40,Strength,videos/TrainingMuscles3.MP4,images/button_back6.jpg,2

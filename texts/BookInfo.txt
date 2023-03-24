@@ -1,0 +1,6 @@
+Davis,Tom,Strength,Monday,8:00-10:00
+Davis,Tina,Slim,Tuesday,13:00-15:00
+Lisey,Tom,Strength,Monday,8:00-10:00
+Lisey,Lucia,Slim,Thursday,13:00-15:00
+Lisey,Lucia,Slim,Friday,19:00-21:00
+crz,Tina,Strength,Monday,8:00-10:00
